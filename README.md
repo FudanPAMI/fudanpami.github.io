@@ -1,1 +1,1 @@
-# [FudanPAMI](fudanpami.github.io)
+# [FudanPAMI](https://fudanpami.github.io/)
